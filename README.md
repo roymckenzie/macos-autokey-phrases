@@ -7,27 +7,27 @@ Use macOS-style keyboard shortcuts for:
 Bold | ⌘+b
 Comment line | ⌘+/
 Copy | ⌘+c
-Cut | ⌘+x
+Cut | ⌘+xF
 Find | ⌘+f 
-Firefox New Private Window | <shift>+⌘+n | Navigator.Firefox
+Firefox New Private Window | ⇧+⌘+n | Navigator.Firefox
 Firefox Refresh | ⌘+r | Navigator.Firefox
 Italicize | ⌘+i
-Move left and select by word | <alt>+<shift>+<left>
-Move left by word | <alt>+<left>
-Move right and select by word | <alt>+<shift>+<right>
-Move right by word | <alt>+<right>
-Move to beginning of line | ⌘+<left>
-Move to end of line | ⌘+<right>
+Move left and select by word | ⌥+⇧+←
+Move left by word | ⌥+←
+Move right and select by word | ⌥+⇧+→
+Move right by word | ⌥+→
+Move to beginning of line | ⌘+←
+Move to end of line | ⌘+→
 New tab | ⌘+t
 New window | ⌘+n
 Paste | ⌘+v
-Redo | <shift>+⌘+z
+Redo | ⇧+⌘+z
 Save | ⌘+s
 Select all | ⌘+a
-Select to beginning of line | <shift>+⌘+<left>
-Select to end of line | <shift>+⌘+<right>
-Send email (elementary Mail) | <shift>+⌘+d | pantheon-mail.Pantheon-mail
-Switch tab (Firefox) | <alt>+<tab> | Navigator.Firefox
+Select to beginning of line | ⇧+⌘+←
+Select to end of line | ⇧+⌘+→
+Send email (elementary Mail) | ⇧+⌘+d | pantheon-mail.Pantheon-mail
+Switch tab (Firefox) | ⌥+⇥ | Navigator.Firefox
 Undo | ⌘+z
 
 ## Installation

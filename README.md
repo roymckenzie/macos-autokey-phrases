@@ -38,11 +38,11 @@ Install [AutoKey](https://github.com/autokey/autokey) from AppCenter (elementary
 $ sudo apt install autokey-gtk
 ```
 
-Clone repository and copy `My Phrases` folder to `~/.config/autokey/data`.
+Clone repository and copy `macOS` folder to `~/.config/autokey/data`.
 
 ```bash
 $ git clone git@github.com:roymckenzie/macos-autokey-phrases.git
-$ cp -r My\ Phrases/ ~/.config/autokey/data/
+$ cp -r macOS/ ~/.config/autokey/data/
 ```
 
 Enjoy!

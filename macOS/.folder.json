@@ -1,5 +1,5 @@
 {
-    "usageCount": 50, 
+    "usageCount": 876, 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -9,7 +9,7 @@
         "triggerInside": false
     }, 
     "modes": [], 
-    "title": "My Phrases", 
+    "title": "macOS", 
     "hotkey": {
         "hotKey": "<f7>", 
         "modifiers": [

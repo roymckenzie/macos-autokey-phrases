@@ -31,7 +31,7 @@ Use macOS-style keyboard shortcuts for:
 
 ## Installation
 
-Install AutoKey from AppCenter (elementary OS) or
+Install [AutoKey](https://github.com/autokey/autokey) from AppCenter (elementary OS) or
 
 ```bash 
 $ sudo apt install autokey-gtk

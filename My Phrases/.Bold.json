@@ -12,10 +12,14 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": null, 
-        "modifiers": []
+        "hotKey": "b", 
+        "modifiers": [
+            "<super>"
+        ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {

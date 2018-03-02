@@ -1,1 +1,1 @@
-Enter phrase contents
+<ctrl>+B

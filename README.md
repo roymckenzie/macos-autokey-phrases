@@ -2,32 +2,33 @@
 
 Use macOS-style keyboard shortcuts for:
 
-  - Bold
-  - Comment line
-  - Copy
-  - Cut
-  - Find
-  - Firefox New Private Window
-  - Firefox Refresh
-  - Italicize
-  - Move left and select by word
-  - Move left by word
-  - Move right and select by word
-  - Move right by word
-  - Move to beginning of line
-  - Move to end of line
-  - New tab
-  - New window
-  - Paste
-  - Redo
-  - Save
-  - Screenshot area to clipboard
-  - Select all
-  - Select to beginning of line
-  - Select to end of line
-  - Send email (elementary Mail)
-  - Switch tab (Firefox)
-  - Undo
+| Command | Shortcut | Window Filter
+|---|:---:|---|
+Bold | ⌘+b
+Comment line | ⌘+/
+Copy | ⌘+c
+Cut | ⌘+x
+Find | ⌘+f 
+Firefox New Private Window | <shift>+⌘+n | Navigator.Firefox
+Firefox Refresh | ⌘+r | Navigator.Firefox
+Italicize | ⌘+i
+Move left and select by word | <alt>+<shift>+<left>
+Move left by word | <alt>+<left>
+Move right and select by word | <alt>+<shift>+<right>
+Move right by word | <alt>+<right>
+Move to beginning of line | ⌘+<left>
+Move to end of line | ⌘+<right>
+New tab | ⌘+t
+New window | ⌘+n
+Paste | ⌘+v
+Redo | <shift>+⌘+z
+Save | ⌘+s
+Select all | ⌘+a
+Select to beginning of line | <shift>+⌘+<left>
+Select to end of line | <shift>+⌘+<right>
+Send email (elementary Mail) | <shift>+⌘+d | pantheon-mail.Pantheon-mail
+Switch tab (Firefox) | <alt>+<tab> | Navigator.Firefox
+Undo | ⌘+z
 
 ## Installation
 

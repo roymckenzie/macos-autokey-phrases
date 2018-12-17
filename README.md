@@ -29,7 +29,7 @@ Select to end of line | ⇧+⌘+→
 Send email (elementary Mail) | ⇧+⌘+d | pantheon-mail.Pantheon-mail
 Switch tab (Firefox) | ⌥+⇥ | Navigator.Firefox
 Undo | ⌘+z
-
+Close Tabbed Window | ⌘+w
 ## Installation
 
 Install [AutoKey](https://github.com/autokey/autokey) from AppCenter (elementary OS) or

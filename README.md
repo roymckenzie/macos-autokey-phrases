@@ -29,6 +29,7 @@ Select to end of line | ⇧+⌘+→
 Send email (elementary Mail) | ⇧+⌘+d | pantheon-mail.Pantheon-mail
 Switch tab (Firefox) | ⌥+⇥ | Navigator.Firefox
 Undo | ⌘+z
+Close Tabbed Window | ⌘+w
 Close focused application| ⌘+q
 
 ## Installation
